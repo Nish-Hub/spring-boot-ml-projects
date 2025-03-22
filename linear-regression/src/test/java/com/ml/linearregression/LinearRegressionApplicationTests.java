@@ -1,4 +1,4 @@
-package com.ml.linear_regression;
+package com.ml.linearregression;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
